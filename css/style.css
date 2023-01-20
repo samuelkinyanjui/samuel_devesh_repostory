@@ -12,3 +12,35 @@ z-index: 10;
 .listview{
     display :flex;
 }
+.rightdiv
+         {
+            position: fixed;
+            min-width: 290px;
+            top: 0px;
+            left: 0px;
+            width: 300px;
+            height: 100%;
+            border-right: solid;
+            border-color: rgba(0, 22, 22, 0.4);
+         }
+
+
+
+         .headone{
+            float :center;
+            font-size: large;
+            font-weight:300;
+            font-size: 40;
+            font-style: oblique;
+            font-variant-position: center;
+         }
+         #document_side{
+            float:right;
+         }
+         #navbar_li{
+            color: #4d4e53;
+            border-top: 1px solid;
+            list-style: none;
+            position: relative;
+            width: 100%;
+         }
