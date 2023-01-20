@@ -1,4 +1,14 @@
 #menu{
 background-color: var(--main-red);
+display : flex;
+justify-content: flex-end;
+top :0;
+left:0;
+width: 100%;
+box-shadow: 0 2px 0 rgb(0 0 0 / 40%);
+z-index: 10;
 
+}
+.listview{
+    display :flex;
 }
