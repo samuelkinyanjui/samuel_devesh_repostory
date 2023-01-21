@@ -49,7 +49,15 @@ vertical-align: top;
             width: 100%;
          }
          .main-doc{
-            font-size: 40;
-            font-weight: 800;
+    font-size: 40;
+    font-weight: 800;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
             
+         }
+         .navbar{
+            font-size: 60;
+            list-style-type: "🔔 "; 
          }
