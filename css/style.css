@@ -32,10 +32,10 @@ vertical-align: top;
 
          .headone{
             float :center;
-            font-size: large;
-            font-weight:300;
-            font-size: 40;
-            font-style: oblique;
+            font-size: small;
+            font-weight:3;
+            font: size 10px;
+            font-style: sensarif;
             font-variant-position: center;
          }
          .document_side{
